@@ -5,8 +5,8 @@
 *O projeto é um sistema aberto e de livre escolha do aluno, você pode entender o desenvolvimento, clicando no link> [projeto](https://github.com/WilsonZolanski/SistemasNota/blob/master/Projeto%202019.2.pdf).*
 
 <p float="left">
-  <image width=49%, src="./1.gif"/> 
-  <image width=49%, src="./2.gif"/> 
+  <image width=49%, src="./images/1.gif"/> 
+  <image width=49%, src="./images/2.gif"/> 
 </p>
 
 # Mais detalhes
