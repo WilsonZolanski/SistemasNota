@@ -20,7 +20,7 @@ def crip(string):
     Função recebe uma string e criptografa, a sua criptografia consiste em abrir o arquivo de "chavePublica.txt",
     depois pega os valores de "e" e "n" para podermos utilizar na formula da critografia no segundo for.
     """
-    arquivo = open("chavePublica.txt","r")
+    arquivo = open("./keys/chavePublica.txt","r")
     lista2 = arquivo.readlines()
     for x in lista2:
         e = ""
@@ -43,7 +43,7 @@ def descrip(string):
     Função recebe uma string e descriptogra, a sua descriptografia consiste em abrir o arquivo "chavePrivada.txt",
     depois pega os valores de "d" e "n" para podermos utilizar na formula da descriptofragia no terceiro for.
     """
-    arquivo = open("chavePrivada.txt","r")
+    arquivo = open("./keys/chavePrivada.txt","r")
     lista2 = arquivo.readlines()
     for x in lista2:
         d = ""

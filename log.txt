@@ -1,0 +1,6 @@
+— O CPF '108' foi cadastrado no banco de dados na data e hora [Mon Oct 23 19:35:56 2023]
+— O CPF '999' foi cadastrado no banco de dados na data e hora [Mon Oct 23 19:37:47 2023]
+— O CPF '999' cadastrou o cpf '108' no nome de 'wilson' na data e hora [Mon Oct 23 19:38:34 2023]
+— O CPF '999' fez um relatório na data e hora [Mon Oct 23 19:38:40 2023]
+— O CPF '999' encerrou o programa na data e hora [Mon Oct 23 19:38:40 2023]
+— O CPF 108 fez uma busca pela disciplina portugays no cpf '108' na data e hora [Mon Oct 23 19:39:06 2023]

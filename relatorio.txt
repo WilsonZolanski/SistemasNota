@@ -1,0 +1,9 @@
+Cadastro Nº0
+CPF: 108
+Disciplina: portugays
+Nome: wilson
+Nota1: 50
+Nota2: 90
+Media: 70.0
+Data de Cadastro: Mon Oct 23 19:38:34 2023
+
